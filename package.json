@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "pamba-gold-catalogue",
+=======
+  "name": "jewellery-catalogue",
+>>>>>>> cbce87c56a5f61a553acae6c7ded62c6758020c7
   "private": true,
   "version": "1.0.0",
   "type": "module",
@@ -11,10 +15,23 @@
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+<<<<<<< HEAD
     "react-router-dom": "^6.28.1"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.3.4",
     "vite": "^5.4.11"
+=======
+    "react-router-dom": "^6.30.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.3.3",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.47",
+    "tailwindcss": "^3.4.14",
+    "vite": "^5.4.10"
+>>>>>>> cbce87c56a5f61a553acae6c7ded62c6758020c7
   }
 }

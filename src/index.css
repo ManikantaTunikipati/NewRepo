@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 :root {
   --gold: #c9a227;
   --gold-light: #f9f1d6;
@@ -52,4 +53,16 @@ a {
 
 .btn-whatsapp:hover {
   background: #167938;
+=======
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Inter', system-ui, sans-serif;
+}
+
+.gold-gradient {
+  background: linear-gradient(120deg, #fff7e1, #f7d88f);
+>>>>>>> cbce87c56a5f61a553acae6c7ded62c6758020c7
 }

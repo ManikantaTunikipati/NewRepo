@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import { NavLink, Outlet } from "react-router-dom";
 
 function navStyle({ isActive }) {
@@ -44,6 +45,17 @@ export default function MainLayout() {
           Pamba Gold Catalogue - Contact: 9441518562
         </div>
       </footer>
+=======
+import Navbar from '../components/Navbar';
+import Footer from '../components/Footer';
+
+export default function MainLayout({ children }) {
+  return (
+    <div className="min-h-screen bg-white text-slate-800">
+      <Navbar />
+      <main className="mx-auto max-w-6xl px-4 py-8">{children}</main>
+      <Footer />
+>>>>>>> cbce87c56a5f61a553acae6c7ded62c6758020c7
     </div>
   );
 }
