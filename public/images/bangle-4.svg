@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="550" viewBox="0 0 800 550">
+  <rect width="800" height="550" fill="#fff2c5"/>
+  <circle cx="400" cy="275" r="150" fill="none" stroke="#a27c1a" stroke-width="26"/>
+  <circle cx="400" cy="275" r="122" fill="none" stroke="#c9a227" stroke-width="14"/>
+  <circle cx="400" cy="275" r="96" fill="none" stroke="#f3df9f" stroke-width="8"/>
+  <text x="400" y="500" text-anchor="middle" font-size="32" font-family="Arial" fill="#6f5410">Pamba Bangle 4</text>
+</svg>
